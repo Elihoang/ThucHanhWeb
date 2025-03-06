@@ -1,0 +1,14 @@
+﻿@model WebBanHang.Models.Category
+
+<h2>Bạn có chắc chắn muốn xóa danh mục này không?</h2>
+
+<div>
+    <h4>ID: @Model.CategoryId</h4>
+    <h4>Tên: @Model.Name</h4>
+</div>
+
+<form asp-action="DeleteConfirmed" method="post">
+    <input type="hidden" asp-for="CategoryId" />
+    <button type="submit" class="btn btn-danger">Xóa</button>
+    <a asp-action="Index" class="btn btn-secondary">Hủy</a>
+</form>

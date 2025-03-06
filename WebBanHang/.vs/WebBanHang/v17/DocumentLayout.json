@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\THLTWeb\\WebBanHang\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D7A1337-4C94-422E-A363-4C9DD456E1B2}|WebBanHang\\WebBanHang.csproj|d:\\thltweb\\webbanhang\\webbanhang\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D7A1337-4C94-422E-A363-4C9DD456E1B2}|WebBanHang\\WebBanHang.csproj|solutionrelative:webbanhang\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D7A1337-4C94-422E-A363-4C9DD456E1B2}|WebBanHang\\WebBanHang.csproj|d:\\thltweb\\webbanhang\\webbanhang\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D7A1337-4C94-422E-A363-4C9DD456E1B2}|WebBanHang\\WebBanHang.csproj|solutionrelative:webbanhang\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D7A1337-4C94-422E-A363-4C9DD456E1B2}|WebBanHang\\WebBanHang.csproj|d:\\thltweb\\webbanhang\\webbanhang\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D7A1337-4C94-422E-A363-4C9DD456E1B2}|WebBanHang\\WebBanHang.csproj|solutionrelative:webbanhang\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D7A1337-4C94-422E-A363-4C9DD456E1B2}|WebBanHang\\WebBanHang.csproj|d:\\thltweb\\webbanhang\\webbanhang\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D7A1337-4C94-422E-A363-4C9DD456E1B2}|WebBanHang\\WebBanHang.csproj|solutionrelative:webbanhang\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D7A1337-4C94-422E-A363-4C9DD456E1B2}|WebBanHang\\WebBanHang.csproj|d:\\thltweb\\webbanhang\\webbanhang\\views\\category\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D7A1337-4C94-422E-A363-4C9DD456E1B2}|WebBanHang\\WebBanHang.csproj|solutionrelative:webbanhang\\views\\category\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D7A1337-4C94-422E-A363-4C9DD456E1B2}|WebBanHang\\WebBanHang.csproj|d:\\thltweb\\webbanhang\\webbanhang\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D7A1337-4C94-422E-A363-4C9DD456E1B2}|WebBanHang\\WebBanHang.csproj|solutionrelative:webbanhang\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D7A1337-4C94-422E-A363-4C9DD456E1B2}|WebBanHang\\WebBanHang.csproj|d:\\thltweb\\webbanhang\\webbanhang\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D7A1337-4C94-422E-A363-4C9DD456E1B2}|WebBanHang\\WebBanHang.csproj|solutionrelative:webbanhang\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D7A1337-4C94-422E-A363-4C9DD456E1B2}|WebBanHang\\WebBanHang.csproj|d:\\thltweb\\webbanhang\\webbanhang\\repositories\\mockcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D7A1337-4C94-422E-A363-4C9DD456E1B2}|WebBanHang\\WebBanHang.csproj|solutionrelative:webbanhang\\repositories\\mockcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\THLTWeb\\WebBanHang\\WebBanHang\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebBanHang\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\THLTWeb\\WebBanHang\\WebBanHang\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "WebBanHang\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAACEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-06T04:19:50.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\THLTWeb\\WebBanHang\\WebBanHang\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebBanHang\\Views\\Category\\Index.cshtml",
+              "ToolTip": "D:\\THLTWeb\\WebBanHang\\WebBanHang\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "WebBanHang\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwCAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-06T04:19:12.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\THLTWeb\\WebBanHang\\WebBanHang\\Views\\Category\\Add.cshtml",
+              "RelativeDocumentMoniker": "WebBanHang\\Views\\Category\\Add.cshtml",
+              "ToolTip": "D:\\THLTWeb\\WebBanHang\\WebBanHang\\Views\\Category\\Add.cshtml",
+              "RelativeToolTip": "WebBanHang\\Views\\Category\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-06T04:17:54.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\THLTWeb\\WebBanHang\\WebBanHang\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "WebBanHang\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\THLTWeb\\WebBanHang\\WebBanHang\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "WebBanHang\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T04:17:50.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\THLTWeb\\WebBanHang\\WebBanHang\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "WebBanHang\\Models\\Category.cs",
+              "ToolTip": "D:\\THLTWeb\\WebBanHang\\WebBanHang\\Models\\Category.cs",
+              "RelativeToolTip": "WebBanHang\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T04:17:48.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MockCategoryRepository.cs",
+              "DocumentMoniker": "D:\\THLTWeb\\WebBanHang\\WebBanHang\\Repositories\\MockCategoryRepository.cs",
+              "RelativeDocumentMoniker": "WebBanHang\\Repositories\\MockCategoryRepository.cs",
+              "ToolTip": "D:\\THLTWeb\\WebBanHang\\WebBanHang\\Repositories\\MockCategoryRepository.cs",
+              "RelativeToolTip": "WebBanHang\\Repositories\\MockCategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T04:16:43.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\THLTWeb\\WebBanHang\\WebBanHang\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "WebBanHang\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\THLTWeb\\WebBanHang\\WebBanHang\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "WebBanHang\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAgwF4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T04:15:16.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\THLTWeb\\WebBanHang\\WebBanHang\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "WebBanHang\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\THLTWeb\\WebBanHang\\WebBanHang\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "WebBanHang\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T04:15:00.484Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

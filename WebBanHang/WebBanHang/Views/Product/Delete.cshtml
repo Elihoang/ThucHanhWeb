@@ -1,0 +1,31 @@
+﻿@model WebBanHang.Models.Product
+
+<div class="container mt-5">
+    <div class="card shadow-lg border-danger">
+        <div class="card-header bg-danger text-white text-center">
+            <h2>Xác nhận xóa sản phẩm</h2>
+        </div>
+        <div class="card-body text-center">
+            <h4 class="text-danger">Bạn có chắc chắn muốn xóa sản phẩm này không?</h4>
+            <hr />
+            <h4><strong>Tên:</strong> @Model.Name</h4>
+            <h4><strong>Giá:</strong> <span class="text-success">@Model.Price.ToString("C")</span></h4>
+            <p><strong>Mô tả:</strong> @Model.Description</p>
+
+            <!-- Hiển thị ảnh sản phẩm -->
+            <img src="@Model.ImageUrl" alt="Product Image" class="img-fluid rounded shadow mt-3" style="max-width: 250px; height: auto;">
+
+            <div class="mt-4">
+                <form asp-action="DeleteConfirmed" method="post">
+                    <input type="hidden" asp-for="Id" />
+                    <button type="submit" class="btn btn-danger btn-lg">
+                        Xóa sản phẩm
+                    </button>
+                    <a asp-action="Index" class="btn btn-secondary btn-lg ms-3">
+                        Hủy bỏ
+                    </a>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
