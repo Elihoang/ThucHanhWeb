@@ -1,0 +1,437 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\THLTWeb\\WebLab3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9CF398-AA8A-4AC6-95EA-83D822801D5D}|WebLab3\\WebLab3.csproj|d:\\thltweb\\weblab3\\weblab3\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD9CF398-AA8A-4AC6-95EA-83D822801D5D}|WebLab3\\WebLab3.csproj|solutionrelative:weblab3\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9CF398-AA8A-4AC6-95EA-83D822801D5D}|WebLab3\\WebLab3.csproj|d:\\thltweb\\weblab3\\weblab3\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD9CF398-AA8A-4AC6-95EA-83D822801D5D}|WebLab3\\WebLab3.csproj|solutionrelative:weblab3\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9CF398-AA8A-4AC6-95EA-83D822801D5D}|WebLab3\\WebLab3.csproj|d:\\thltweb\\weblab3\\weblab3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD9CF398-AA8A-4AC6-95EA-83D822801D5D}|WebLab3\\WebLab3.csproj|solutionrelative:weblab3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9CF398-AA8A-4AC6-95EA-83D822801D5D}|WebLab3\\WebLab3.csproj|d:\\thltweb\\weblab3\\weblab3\\views\\product\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD9CF398-AA8A-4AC6-95EA-83D822801D5D}|WebLab3\\WebLab3.csproj|solutionrelative:weblab3\\views\\product\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9CF398-AA8A-4AC6-95EA-83D822801D5D}|WebLab3\\WebLab3.csproj|d:\\thltweb\\weblab3\\weblab3\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD9CF398-AA8A-4AC6-95EA-83D822801D5D}|WebLab3\\WebLab3.csproj|solutionrelative:weblab3\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9CF398-AA8A-4AC6-95EA-83D822801D5D}|WebLab3\\WebLab3.csproj|d:\\thltweb\\weblab3\\weblab3\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD9CF398-AA8A-4AC6-95EA-83D822801D5D}|WebLab3\\WebLab3.csproj|solutionrelative:weblab3\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9CF398-AA8A-4AC6-95EA-83D822801D5D}|WebLab3\\WebLab3.csproj|d:\\thltweb\\weblab3\\weblab3\\views\\category\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD9CF398-AA8A-4AC6-95EA-83D822801D5D}|WebLab3\\WebLab3.csproj|solutionrelative:weblab3\\views\\category\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9CF398-AA8A-4AC6-95EA-83D822801D5D}|WebLab3\\WebLab3.csproj|d:\\thltweb\\weblab3\\weblab3\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD9CF398-AA8A-4AC6-95EA-83D822801D5D}|WebLab3\\WebLab3.csproj|solutionrelative:weblab3\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9CF398-AA8A-4AC6-95EA-83D822801D5D}|WebLab3\\WebLab3.csproj|d:\\thltweb\\weblab3\\weblab3\\views\\product\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD9CF398-AA8A-4AC6-95EA-83D822801D5D}|WebLab3\\WebLab3.csproj|solutionrelative:weblab3\\views\\product\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9CF398-AA8A-4AC6-95EA-83D822801D5D}|WebLab3\\WebLab3.csproj|d:\\thltweb\\weblab3\\weblab3\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9CF398-AA8A-4AC6-95EA-83D822801D5D}|WebLab3\\WebLab3.csproj|solutionrelative:weblab3\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9CF398-AA8A-4AC6-95EA-83D822801D5D}|WebLab3\\WebLab3.csproj|d:\\thltweb\\weblab3\\weblab3\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9CF398-AA8A-4AC6-95EA-83D822801D5D}|WebLab3\\WebLab3.csproj|solutionrelative:weblab3\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9CF398-AA8A-4AC6-95EA-83D822801D5D}|WebLab3\\WebLab3.csproj|d:\\thltweb\\weblab3\\weblab3\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9CF398-AA8A-4AC6-95EA-83D822801D5D}|WebLab3\\WebLab3.csproj|solutionrelative:weblab3\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9CF398-AA8A-4AC6-95EA-83D822801D5D}|WebLab3\\WebLab3.csproj|d:\\thltweb\\weblab3\\weblab3\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9CF398-AA8A-4AC6-95EA-83D822801D5D}|WebLab3\\WebLab3.csproj|solutionrelative:weblab3\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9CF398-AA8A-4AC6-95EA-83D822801D5D}|WebLab3\\WebLab3.csproj|d:\\thltweb\\weblab3\\weblab3\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9CF398-AA8A-4AC6-95EA-83D822801D5D}|WebLab3\\WebLab3.csproj|solutionrelative:weblab3\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9CF398-AA8A-4AC6-95EA-83D822801D5D}|WebLab3\\WebLab3.csproj|d:\\thltweb\\weblab3\\weblab3\\repositories\\efproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9CF398-AA8A-4AC6-95EA-83D822801D5D}|WebLab3\\WebLab3.csproj|solutionrelative:weblab3\\repositories\\efproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9CF398-AA8A-4AC6-95EA-83D822801D5D}|WebLab3\\WebLab3.csproj|d:\\thltweb\\weblab3\\weblab3\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD9CF398-AA8A-4AC6-95EA-83D822801D5D}|WebLab3\\WebLab3.csproj|solutionrelative:weblab3\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9CF398-AA8A-4AC6-95EA-83D822801D5D}|WebLab3\\WebLab3.csproj|d:\\thltweb\\weblab3\\weblab3\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD9CF398-AA8A-4AC6-95EA-83D822801D5D}|WebLab3\\WebLab3.csproj|solutionrelative:weblab3\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9CF398-AA8A-4AC6-95EA-83D822801D5D}|WebLab3\\WebLab3.csproj|d:\\thltweb\\weblab3\\weblab3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD9CF398-AA8A-4AC6-95EA-83D822801D5D}|WebLab3\\WebLab3.csproj|solutionrelative:weblab3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9CF398-AA8A-4AC6-95EA-83D822801D5D}|WebLab3\\WebLab3.csproj|d:\\thltweb\\weblab3\\weblab3\\views\\category\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD9CF398-AA8A-4AC6-95EA-83D822801D5D}|WebLab3\\WebLab3.csproj|solutionrelative:weblab3\\views\\category\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9CF398-AA8A-4AC6-95EA-83D822801D5D}|WebLab3\\WebLab3.csproj|d:\\thltweb\\weblab3\\weblab3\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD9CF398-AA8A-4AC6-95EA-83D822801D5D}|WebLab3\\WebLab3.csproj|solutionrelative:weblab3\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9CF398-AA8A-4AC6-95EA-83D822801D5D}|WebLab3\\WebLab3.csproj|d:\\thltweb\\weblab3\\weblab3\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9CF398-AA8A-4AC6-95EA-83D822801D5D}|WebLab3\\WebLab3.csproj|solutionrelative:weblab3\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9CF398-AA8A-4AC6-95EA-83D822801D5D}|WebLab3\\WebLab3.csproj|d:\\thltweb\\weblab3\\weblab3\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9CF398-AA8A-4AC6-95EA-83D822801D5D}|WebLab3\\WebLab3.csproj|solutionrelative:weblab3\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9CF398-AA8A-4AC6-95EA-83D822801D5D}|WebLab3\\WebLab3.csproj|d:\\thltweb\\weblab3\\weblab3\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9CF398-AA8A-4AC6-95EA-83D822801D5D}|WebLab3\\WebLab3.csproj|solutionrelative:weblab3\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9CF398-AA8A-4AC6-95EA-83D822801D5D}|WebLab3\\WebLab3.csproj|d:\\thltweb\\weblab3\\weblab3\\repositories\\efcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9CF398-AA8A-4AC6-95EA-83D822801D5D}|WebLab3\\WebLab3.csproj|solutionrelative:weblab3\\repositories\\efcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9CF398-AA8A-4AC6-95EA-83D822801D5D}|WebLab3\\WebLab3.csproj|d:\\thltweb\\weblab3\\weblab3\\migrations\\20250313021904_initials2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9CF398-AA8A-4AC6-95EA-83D822801D5D}|WebLab3\\WebLab3.csproj|solutionrelative:weblab3\\migrations\\20250313021904_initials2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "D:\\THLTWeb\\WebLab3\\WebLab3\\Repositories\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "WebLab3\\Repositories\\ICategoryRepository.cs",
+              "ToolTip": "D:\\THLTWeb\\WebLab3\\WebLab3\\Repositories\\ICategoryRepository.cs",
+              "RelativeToolTip": "WebLab3\\Repositories\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T04:21:41.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\THLTWeb\\WebLab3\\WebLab3\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebLab3\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\THLTWeb\\WebLab3\\WebLab3\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebLab3\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T04:14:23.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\THLTWeb\\WebLab3\\WebLab3\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebLab3\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\THLTWeb\\WebLab3\\WebLab3\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebLab3\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T04:14:23.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Display.cshtml",
+              "DocumentMoniker": "D:\\THLTWeb\\WebLab3\\WebLab3\\Views\\Product\\Display.cshtml",
+              "RelativeDocumentMoniker": "WebLab3\\Views\\Product\\Display.cshtml",
+              "ToolTip": "D:\\THLTWeb\\WebLab3\\WebLab3\\Views\\Product\\Display.cshtml",
+              "RelativeToolTip": "WebLab3\\Views\\Product\\Display.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T03:45:02.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "D:\\THLTWeb\\WebLab3\\WebLab3\\Views\\Product\\Update.cshtml",
+              "RelativeDocumentMoniker": "WebLab3\\Views\\Product\\Update.cshtml",
+              "ToolTip": "D:\\THLTWeb\\WebLab3\\WebLab3\\Views\\Product\\Update.cshtml",
+              "RelativeToolTip": "WebLab3\\Views\\Product\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T03:18:14.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\THLTWeb\\WebLab3\\WebLab3\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebLab3\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\THLTWeb\\WebLab3\\WebLab3\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "WebLab3\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAACSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T03:18:12.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\THLTWeb\\WebLab3\\WebLab3\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WebLab3\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "D:\\THLTWeb\\WebLab3\\WebLab3\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "WebLab3\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T03:16:39.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\THLTWeb\\WebLab3\\WebLab3\\Views\\Product\\Add.cshtml",
+              "RelativeDocumentMoniker": "WebLab3\\Views\\Product\\Add.cshtml",
+              "ToolTip": "D:\\THLTWeb\\WebLab3\\WebLab3\\Views\\Product\\Add.cshtml",
+              "RelativeToolTip": "WebLab3\\Views\\Product\\Add.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAACcAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T03:15:46.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\THLTWeb\\WebLab3\\WebLab3\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebLab3\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\THLTWeb\\WebLab3\\WebLab3\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebLab3\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAACOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T03:09:48.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\THLTWeb\\WebLab3\\WebLab3\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebLab3\\Views\\Category\\Index.cshtml",
+              "ToolTip": "D:\\THLTWeb\\WebLab3\\WebLab3\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "WebLab3\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T02:25:51.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Display.cshtml",
+              "DocumentMoniker": "D:\\THLTWeb\\WebLab3\\WebLab3\\Views\\Category\\Display.cshtml",
+              "RelativeDocumentMoniker": "WebLab3\\Views\\Category\\Display.cshtml",
+              "ToolTip": "D:\\THLTWeb\\WebLab3\\WebLab3\\Views\\Category\\Display.cshtml",
+              "RelativeToolTip": "WebLab3\\Views\\Category\\Display.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T02:25:51.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\THLTWeb\\WebLab3\\WebLab3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebLab3\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\THLTWeb\\WebLab3\\WebLab3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebLab3\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAiwE4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T02:24:49.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\THLTWeb\\WebLab3\\WebLab3\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WebLab3\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\THLTWeb\\WebLab3\\WebLab3\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WebLab3\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T02:22:10.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20250313021904_Initials2.cs",
+              "DocumentMoniker": "D:\\THLTWeb\\WebLab3\\WebLab3\\Migrations\\20250313021904_Initials2.cs",
+              "RelativeDocumentMoniker": "WebLab3\\Migrations\\20250313021904_Initials2.cs",
+              "ToolTip": "D:\\THLTWeb\\WebLab3\\WebLab3\\Migrations\\20250313021904_Initials2.cs",
+              "RelativeToolTip": "WebLab3\\Migrations\\20250313021904_Initials2.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwDoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T02:19:04.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProductImage.cs",
+              "DocumentMoniker": "D:\\THLTWeb\\WebLab3\\WebLab3\\Models\\ProductImage.cs",
+              "RelativeDocumentMoniker": "WebLab3\\Models\\ProductImage.cs",
+              "ToolTip": "D:\\THLTWeb\\WebLab3\\WebLab3\\Models\\ProductImage.cs",
+              "RelativeToolTip": "WebLab3\\Models\\ProductImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T02:17:31.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\THLTWeb\\WebLab3\\WebLab3\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "WebLab3\\Repositories\\IProductRepository.cs",
+              "ToolTip": "D:\\THLTWeb\\WebLab3\\WebLab3\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "WebLab3\\Repositories\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T02:15:08.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EFProductRepository.cs",
+              "DocumentMoniker": "D:\\THLTWeb\\WebLab3\\WebLab3\\Repositories\\EFProductRepository.cs",
+              "RelativeDocumentMoniker": "WebLab3\\Repositories\\EFProductRepository.cs",
+              "ToolTip": "D:\\THLTWeb\\WebLab3\\WebLab3\\Repositories\\EFProductRepository.cs",
+              "RelativeToolTip": "WebLab3\\Repositories\\EFProductRepository.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAADwvysAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T02:15:05.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\THLTWeb\\WebLab3\\WebLab3\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "WebLab3\\Models\\Product.cs",
+              "ToolTip": "D:\\THLTWeb\\WebLab3\\WebLab3\\Models\\Product.cs",
+              "RelativeToolTip": "WebLab3\\Models\\Product.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T02:14:24.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\THLTWeb\\WebLab3\\WebLab3\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "WebLab3\\Models\\Category.cs",
+              "ToolTip": "D:\\THLTWeb\\WebLab3\\WebLab3\\Models\\Category.cs",
+              "RelativeToolTip": "WebLab3\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T02:14:20.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\THLTWeb\\WebLab3\\WebLab3\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "WebLab3\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\THLTWeb\\WebLab3\\WebLab3\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "WebLab3\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAADwvz0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T02:13:00.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EFCategoryRepository.cs",
+              "DocumentMoniker": "D:\\THLTWeb\\WebLab3\\WebLab3\\Repositories\\EFCategoryRepository.cs",
+              "RelativeDocumentMoniker": "WebLab3\\Repositories\\EFCategoryRepository.cs",
+              "ToolTip": "D:\\THLTWeb\\WebLab3\\WebLab3\\Repositories\\EFCategoryRepository.cs",
+              "RelativeToolTip": "WebLab3\\Repositories\\EFCategoryRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAiwCUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T02:04:13.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\THLTWeb\\WebLab3\\WebLab3\\Views\\Category\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WebLab3\\Views\\Category\\Delete.cshtml",
+              "ToolTip": "D:\\THLTWeb\\WebLab3\\WebLab3\\Views\\Category\\Delete.cshtml",
+              "RelativeToolTip": "WebLab3\\Views\\Category\\Delete.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T02:04:00.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "D:\\THLTWeb\\WebLab3\\WebLab3\\Views\\Category\\Update.cshtml",
+              "RelativeDocumentMoniker": "WebLab3\\Views\\Category\\Update.cshtml",
+              "ToolTip": "D:\\THLTWeb\\WebLab3\\WebLab3\\Views\\Category\\Update.cshtml",
+              "RelativeToolTip": "WebLab3\\Views\\Category\\Update.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T02:03:35.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\THLTWeb\\WebLab3\\WebLab3\\Views\\Category\\Add.cshtml",
+              "RelativeDocumentMoniker": "WebLab3\\Views\\Category\\Add.cshtml",
+              "ToolTip": "D:\\THLTWeb\\WebLab3\\WebLab3\\Views\\Category\\Add.cshtml",
+              "RelativeToolTip": "WebLab3\\Views\\Category\\Add.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T02:02:56.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\THLTWeb\\WebLab3\\WebLab3\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "WebLab3\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\THLTWeb\\WebLab3\\WebLab3\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "WebLab3\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAqwFcAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T02:01:58.194Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

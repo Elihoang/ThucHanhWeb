@@ -1,0 +1,35 @@
+﻿@model IEnumerable<WebLab3.Models.Category>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1 class="text-center text-primary">📂 Category List</h1>
+
+<p class="text-end">
+    <a asp-action="Add" class="btn btn-success">➕ Create New</a>
+</p>
+
+<table class="table table-bordered table-hover shadow-sm">
+    <thead class="table-dark">
+        <tr>
+            <th class="text-center">Category Name</th>
+            <th class="text-center">Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td class="text-center align-middle">
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td class="text-center">
+                    <a asp-action="Update" asp-route-id="@item.Id" class="btn btn-warning btn-sm">✏️ Edit</a>
+                    <a asp-action="Display" asp-route-id="@item.Id" class="btn btn-info btn-sm text-white">ℹ️ Details</a>
+                    <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger btn-sm">❌ Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

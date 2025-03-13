@@ -1,0 +1,29 @@
+﻿@model WebLab3.Models.Category
+
+@{
+    ViewData["Title"] = "Display";
+}
+
+<h1 class="text-center text-primary">📂 Category Details</h1>
+<hr />
+
+<div class="row justify-content-center">
+    <div class="col-md-6">
+        <div class="card shadow-lg p-4">
+            <div class="card-body">
+                <h4 class="card-title text-secondary text-center">Category Information</h4>
+                <hr />
+                <dl class="row">
+                    <dt class="col-sm-4 fw-bold">Category Name:</dt>
+                    <dd class="col-sm-8">@Model.Name</dd>
+                </dl>
+
+                <!-- Nút hành động -->
+                <div class="d-flex justify-content-between mt-4">
+                    <a asp-action="Index" class="btn btn-outline-secondary">🔙 Back</a>
+                    <a asp-action="Update" asp-route-id="@Model?.Id" class="btn btn-warning">✏️ Edit</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
