@@ -1,0 +1,83 @@
+﻿@model WebLab3.Models.Product
+
+@{
+    ViewData["Title"] = "Add Product";
+}
+
+<h1 class="text-center text-primary mt-2">➕ Add New Product</h1>
+<hr />
+<div class="row justify-content-center">
+    <div class="col-md-6">
+        <form asp-action="Add" enctype="multipart/form-data" method="post" class="p-4 border rounded shadow-sm bg-light">
+            <div asp-validation-summary="ModelOnly" class="alert alert-danger"></div>
+
+            <!-- Tên sản phẩm -->
+            <div class="form-group mb-3">
+                <label asp-for="Name" class="form-label fw-bold">📌 Product Name</label>
+                <input asp-for="Name" class="form-control" placeholder="Enter product name..." />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+
+            <!-- Giá sản phẩm -->
+            <div class="form-group mb-3">
+                <label asp-for="Price" class="form-label fw-bold">💰 Price</label>
+                <input asp-for="Price" class="form-control" type="number" placeholder="Enter product price..." />
+                <span asp-validation-for="Price" class="text-danger"></span>
+            </div>
+
+            <!-- Mô tả sản phẩm -->
+            <div class="form-group mb-3">
+                <label asp-for="Description" class="form-label fw-bold">📝 Description</label>
+                <textarea asp-for="Description" class="form-control" rows="3" placeholder="Enter product description..."></textarea>
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+
+            <!-- Hình ảnh sản phẩm -->
+            <div class="form-group mb-3">
+                <label asp-for="ImageUrl" class="form-label fw-bold">📸 Product Image</label>
+                <input type="file" asp-for="ImageUrl" class="form-control" id="imageUpload" />
+                <div class="mt-2">
+                    <img id="imagePreview" src="#" alt="Image Preview" class="img-thumbnail" style="display: none; max-width: 200px;" />
+                </div>
+            </div>
+
+            <!-- Danh mục sản phẩm -->
+            <div class="form-group mb-3">
+                <label asp-for="CategoryId" class="form-label fw-bold">📂 Category</label>
+                <select asp-for="CategoryId" asp-items="@ViewBag.Categories" class="form-control"></select>
+            </div>
+
+            <!-- Nút bấm -->
+            <div class="d-grid">
+                <input type="submit" value="✅ Create Product" class="btn btn-primary btn-lg" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<!-- Nút quay lại -->
+<div class="text-center mt-3 mb-5">
+    <a asp-action="Index" class="btn btn-secondary">⬅ Back to List</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+
+    <!-- Xử lý hiển thị xem trước ảnh -->
+    <script>
+        document.getElementById("imageUpload").addEventListener("change", function (event) {
+            const file = event.target.files[0];
+            if (file) {
+                const reader = new FileReader();
+                reader.onload = function (e) {
+                    const imgPreview = document.getElementById("imagePreview");
+                    imgPreview.src = e.target.result;
+                    imgPreview.style.display = "block";
+                };
+                reader.readAsDataURL(file);
+            }
+        });
+    </script>
+}

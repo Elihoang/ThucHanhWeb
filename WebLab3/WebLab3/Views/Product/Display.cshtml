@@ -1,0 +1,38 @@
+﻿@model WebLab3.Models.Product
+
+@{
+    ViewData["Title"] = "Display";
+}
+
+<h1 class="text-center text-primary">Product Details</h1>
+
+<div class="card shadow-lg p-4">
+    <div class="row">
+        <!-- Hình ảnh sản phẩm -->
+        <div class="col-md-4 text-center">
+            <img src="@Model.ImageUrl" alt="@Model.Name" class="img-fluid rounded shadow" style="max-height: 300px;">
+        </div>
+
+        <!-- Thông tin sản phẩm -->
+        <div class="col-md-8">
+            <h4 class="text-secondary">@Model.Name</h4>
+            <hr />
+            <dl class="row">
+                <dt class="col-sm-4 fw-bold">Price:</dt>
+                <dd class="col-sm-8 text-success">@Model.Price.ToString("C")</dd>
+
+                <dt class="col-sm-4 fw-bold">Description:</dt>
+                <dd class="col-sm-8">@Model.Description</dd>
+
+                <dt class="col-sm-4 fw-bold">Category:</dt>
+                <dd class="col-sm-8">@Model.Category?.Name</dd>
+            </dl>
+
+            <!-- Nút hành động -->
+            <div class="mt-4">
+                <a asp-action="Update" asp-route-id="@Model?.Id" class="btn btn-warning me-2">Edit</a>
+                <a asp-action="Index" class="btn btn-outline-secondary">Back to List</a>
+            </div>
+        </div>
+    </div>
+</div>

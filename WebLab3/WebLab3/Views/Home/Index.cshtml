@@ -1,0 +1,27 @@
+﻿@{
+    ViewData["Title"] = "Home";
+}
+
+<div class="container text-center mt-4">
+    <h1 class="display-4 text-primary">🚀 Welcome to WebLab3</h1>
+    <p class="lead text-secondary">Manage your products and categories efficiently.</p>
+
+    <div class="my-4">
+        <img src="https://noithatbinhminh.com.vn/wp-content/uploads/2023/09/anh-buon-hoat-hinh-32.jpg" class="img-fluid rounded shadow-lg w-25" alt="E-commerce Image" >
+    </div>
+
+    <!-- Các nút điều hướng -->
+    <div class="row justify-content-center mt-4">
+        <div class="col-md-3">
+            <a asp-controller="Product" asp-action="Index" class="btn btn-primary btn-lg w-100">📦 View Products</a>
+        </div>
+        <div class="col-md-3">
+            <a asp-controller="Category" asp-action="Index" class="btn btn-success btn-lg w-100">📂 View Categories</a>
+        </div>
+        <div class="col-md-3">
+            <a asp-controller="Product" asp-action="Add" class="btn btn-warning btn-lg w-100">➕ Add New Product</a>
+        </div>
+    </div>
+
+    
+</div>

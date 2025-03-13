@@ -1,0 +1,41 @@
+﻿@model WebLab3.Models.Category
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1 class="text-center text-danger">⚠️ Delete Category</h1>
+<h3 class="text-center text-muted">Are you sure you want to delete this?</h3>
+<hr />
+
+<div class="row justify-content-center">
+    <div class="col-md-6">
+        <div class="card shadow-lg p-4 border-danger">
+            <div class="card-body">
+                <h4 class="text-secondary text-center">Category Details</h4>
+                <hr />
+                <dl class="row">
+                    <dt class="col-sm-4 fw-bold">Category Name:</dt>
+                    <dd class="col-sm-8">@Model.Name</dd>
+                </dl>
+
+                <!-- Nút hành động -->
+                <form asp-action="DeleteConfirmed" method="post" onsubmit="return confirmDelete();">
+                    <input type="hidden" asp-for="Id" />
+                    <div class="d-flex justify-content-between mt-4">
+                        <a asp-action="Index" class="btn btn-outline-secondary">🔙 Back</a>
+                        <button type="submit" class="btn btn-danger">❌ Delete</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        function confirmDelete() {
+            return confirm("❗ Are you sure you want to delete this category?");
+        }
+    </script>
+}
